@@ -10,13 +10,11 @@
         <h4>Tasklist 正在开发....</h4>
     </li>
 </ul
+<img src="https://img.shields.io/badge/javascript-2f2e2d.svg?&style=for-the-badge&logo=javascript&logoColor=f7df1e"/>
+<img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/python-457faf.svg?&style=for-the-badge&logo=python&logoColor=fde054"/>
+<img src="https://img.shields.io/badge/C-fffcfc.svg?&style=for-the-badge&logo=C&logoColor=a7b8ca"/>
 
-<div align="center">
-    <img src="https://img.shields.io/badge/javascript-2f2e2d.svg?&style=for-the-badge&logo=javascript&logoColor=f7df1e"/>
-    <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/python-457faf.svg?&style=for-the-badge&logo=python&logoColor=fde054"/>
-    <img src="https://img.shields.io/badge/C-fffcfc.svg?&style=for-the-badge&logo=C&logoColor=a7b8ca"/>
-</div>
 
 
 
