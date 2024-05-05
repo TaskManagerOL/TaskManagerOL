@@ -1,4 +1,4 @@
-<div align="center"  style="pointer-events: none;">
+<div align="center" >
 <img height="360" src="https://img2.imgtp.com/2024/03/16/BJ8vR1vK.gif" alt="an gif" />
 </div>
 
