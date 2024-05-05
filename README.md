@@ -6,7 +6,9 @@
 
 <h1 align="center">✨去热爱这个世界✨</h1>
 <details>
-    <summary>近期日程</summary>
+    <summary>
+        <h3>近期日程</h3>
+    </summary>
     <ul>
         <li>
             <h4>Tasklist 正在开发......</h4>
