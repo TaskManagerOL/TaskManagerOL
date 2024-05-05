@@ -7,7 +7,7 @@
 <h1 align="center">✨去热爱这个世界✨</h1>
 <details>
     <summary>
-        <h3>近期日程</h3>
+        <h3>近期日程📜</h3>
     </summary>
     <ul>
         <li>
@@ -16,6 +16,16 @@
         <li>
             <h4>共享休息舱系统 正在开发......</h4>
         </li>
+        <li>
+            <h4>捞钱中......</h4>
+        </li>
+    </ul>
+</details>
+<details>
+    <summary>
+        <h3>Crazy Ideas✨</h3>
+    </summary>
+    <ul>
          <li>
             <h4>某个H5游戏 提上日程......</h4>
         </li>
@@ -24,9 +34,6 @@
         </li>
         <li>
             <h4>某个Bot 泡汤中......</h4>
-        </li>
-        <li>
-            <h4>捞钱中......</h4>
         </li>
     </ul>
 </details>
