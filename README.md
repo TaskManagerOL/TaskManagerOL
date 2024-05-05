@@ -5,7 +5,7 @@
 
 
 <h1 align="center">✨去热爱这个世界✨</h1>
-<detail>
+<details>
     <summary>近期日程</summary>
     <ul>
         <li>
@@ -27,7 +27,7 @@
             <h4>捞钱中......</h4>
         </li>
     </ul>
-</detail>
+</details>
 
 <p align="center">
 
