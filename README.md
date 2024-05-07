@@ -37,7 +37,7 @@
         </li>
     </ul>
 </details>
-<hr/>
+<h1> </h1>
 <details>
     <summary>
         <h3>How to reach me🎯</h3>
