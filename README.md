@@ -37,15 +37,7 @@
         </li>
     </ul>
 </details>
-<p align="center">
 
-<img src="https://img.shields.io/badge/html5-ffffff.svg?&style=for-the-badge&logo=html5&logoColor=e44d26"/>
-<img src="https://img.shields.io/badge/css3-ffffff.svg?&style=for-the-badge&logo=css3&logoColor=0171bb"/>
-<img src="https://img.shields.io/badge/javascript-2f2e2d.svg?&style=for-the-badge&logo=javascript&logoColor=f7df1e"/>
-<img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/python-457faf.svg?&style=for-the-badge&logo=python&logoColor=fde054"/>
-
-</p>
 <h1 align="center">How to reach me🎯</h1>
 <h3>Please explain your purpose before adding me.</h3>
 
