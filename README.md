@@ -37,13 +37,6 @@
         </li>
     </ul>
 </details>
-<h1 align="center">How to reach me🎯</h1>
-<h3>Please explain your purpose before adding me.</h3>
-
-[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TaskManagerOL)
-
-
-
 <p align="center">
 
 <img src="https://img.shields.io/badge/javascript-2f2e2d.svg?&style=for-the-badge&logo=javascript&logoColor=f7df1e"/>
@@ -52,4 +45,7 @@
 <img src="https://img.shields.io/badge/C-fffcfc.svg?&style=for-the-badge&logo=C&logoColor=a7b8ca"/>
 
 </p>
+<h1 align="center">How to reach me🎯</h1>
+<h3>Please explain your purpose before adding me.</h3>
 
+[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TaskManagerOL)
