@@ -37,26 +37,12 @@
         </li>
     </ul>
 </details>
-<h1> </h1>
-<details>
-    <summary>
-        <h3>How to reach me🎯</h3>
-    </summary>
-    Please explain your purpose before adding me.
-    <ul>
-        <li>
-            <h4>
-                [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TaskManagerOL)
-            </h4>
-        </li>
-        <li>
-            <h4></h4>
-        </li>
-        <li>
-            <h4></h4>
-        </li>
-    </ul>
-</details>
+<h1 align="center">How to reach me🎯</h1>
+<h3>Please explain your purpose before adding me.</h3>
+
+[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TaskManagerOL)
+
+
 
 <p align="center">
 
