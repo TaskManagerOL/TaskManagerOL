@@ -49,6 +49,9 @@
 </p>
 <h1 align="center">How to reach me🎯</h1>
 <h3>Please explain your purpose before adding me.</h3>
+<p align="center">
 
 [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TaskManagerOL)
 [![Matrix Badge](https://img.shields.io/badge/matrix-ffffff.svg?&style=for-the-badge&logo=element&logoColor=0dbc8a)](https://matrix.to/#/@taskmanagerol:matrix.org)
+
+</p>
