@@ -37,6 +37,9 @@
         </li>
     </ul>
 </details>
+<h3>How to reach me</h3>
+Please explain your purpose before adding me.
+[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TaskManagerOL)
 
 <p align="center">
 
