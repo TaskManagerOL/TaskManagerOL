@@ -39,6 +39,8 @@
 </details>
 <p align="center">
 
+<img src="https://img.shields.io/badge/html5-ffffff.svg?&style=for-the-badge&logo=html5&logoColor=e44d26"/>
+<img src="https://img.shields.io/badge/css3-ffffff.svg?&style=for-the-badge&logo=css3&logoColor=0171bb"/>
 <img src="https://img.shields.io/badge/javascript-2f2e2d.svg?&style=for-the-badge&logo=javascript&logoColor=f7df1e"/>
 <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/python-457faf.svg?&style=for-the-badge&logo=python&logoColor=fde054"/>
@@ -49,3 +51,4 @@
 <h3>Please explain your purpose before adding me.</h3>
 
 [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TaskManagerOL)
+[![Matrix Badge](https://img.shields.io/badge/matrix-ffffff.svg?&style=for-the-badge&logo=element&logoColor=0dbc8a)](https://matrix.to/#/@taskmanagerol:matrix.org)
