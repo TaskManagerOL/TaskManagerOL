@@ -11,13 +11,16 @@
     </summary>
     <ul>
         <li>
+            <h4>TaskOrangize 正在开发......</h4>
+        </li>
+        <li>
             <h4>TaskList 正在开发......</h4>
         </li>
         <li>
             <h4>TaskTypeDraw 正在开发......</h4>
         </li>
         <li>
-            <h4>React 即将学习......</h4>
+            <h4>React 正在学习......</h4>
         </li>
     </ul>
 </details>
