@@ -11,16 +11,10 @@
     </summary>
     <ul>
         <li>
-            <h4>TaskOrangize 正在开发......</h4>
-        </li>
-        <li>
             <h4>TaskList 正在开发......</h4>
         </li>
         <li>
             <h4>TaskTypeDraw 正在开发......</h4>
-        </li>
-        <li>
-            <h4>null号Bot正在添加更多插件......</h4>
         </li>
     </ul>
 </details>
