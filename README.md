@@ -20,6 +20,9 @@
         <li>
             <h4>TaskList 正在开发......</h4>
         </li>
+        <li>
+            <h4>TaskMini 正在开发......</h4>
+        </li>
     </ul>
 </details>
 <details>
@@ -27,12 +30,6 @@
         <h3>Crazy Ideas✨</h3>
     </summary>
     <ul>
-        <li>
-            <h4>TaskTypeDraw 正在开发......</h4>
-        </li>
-         <li>
-            <h4>某个H5游戏 提上日程......</h4>
-        </li>
         <li>
             <h4>electron学习 提上日程......</h4>
         </li>
