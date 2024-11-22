@@ -20,9 +20,6 @@
         <li>
             <h4>TaskList 正在开发......</h4>
         </li>
-        <li>
-            <h4>TaskMini 正在开发......</h4>
-        </li>
     </ul>
 </details>
 <details>
