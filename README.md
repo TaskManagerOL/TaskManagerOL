@@ -18,17 +18,7 @@
     </summary>
     <ul>
         <li>
-            <h4>TaskList 正在开发......</h4>
-        </li>
-    </ul>
-</details>
-<details>
-    <summary>
-        <h3>Crazy Ideas✨</h3>
-    </summary>
-    <ul>
-        <li>
-            <h4>electron学习 提上日程......</h4>
+            <h4>无</h4>
         </li>
     </ul>
 </details>
