@@ -11,14 +11,20 @@
 <p>经常思考🤓、睡觉😪、游戏🤺与朋友们交流🤬以及忘记东西🤕</p>
 <p>不好意思🤯我刚刚是不是说过这句👽</p>
 <p>想要和我交朋友？为什么不马上联系我❤️‍🔥！</p>
-<p>外出实习中🤑......</p>
+<p>返校学习中🖋️......</p>
 <details>
     <summary>
         <h3>近期日程📜</h3>
     </summary>
     <ul>
         <li>
-            <h4>无</h4>
+            <h4>Booard——biiiig project</h4>
+        </li>
+        <li>
+            <h4>Tasklist(he's still alive🤕)</h4>
+        </li>
+        <li>
+            <h4>A Wechat Mini Program For Money💵</h4>
         </li>
     </ul>
 </details>
