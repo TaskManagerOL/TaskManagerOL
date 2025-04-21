@@ -30,7 +30,7 @@
             <h4>Electron</h4>
         </li>
         <li>
-            <h4>学一些一些前端的小玩意</h4>
+            <h4>WebGL</h4>
         </li>
     </ul>
 </details>
