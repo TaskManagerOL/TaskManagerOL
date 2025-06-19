@@ -17,21 +17,7 @@
         <h3>近期日程📜</h3>
     </summary>
     <ul>
-        <li>
-            <h4>Booard——biiiig project</h4>
-        </li>
-        <li>
-            <h4>Tasklist(he's still alive🤕)</h4>
-        </li>
-        <li>
-            <h4>A Wechat Mini Program For Money💵</h4>
-        </li>
-        <li>
-            <h4>Electron</h4>
-        </li>
-        <li>
-            <h4>WebGL</h4>
-        </li>
+        <li>从遮天蔽日的阴霾中逃离......如果成功的话，我将会继续保持commit，否则我就还在消沉......</li>
     </ul>
 </details>
 
